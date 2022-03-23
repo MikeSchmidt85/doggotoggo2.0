@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Application</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">
+
+</head>
+<body>
+    <div class="container">
+        <div class="navbar">
+            <a href="/"><img id="topDog" src="https://freepikpsd.com/file/2019/10/dog-logo-png-2-Transparent-Images.png" alt="dog with glasses and a hat on"></a>
+            <h1 id="easy">DoggoToggo</h1>
+            <div class="endNav">
+                <div id="searchbar">
+                    <input type="text" placeholder="Anything dogs..." id="search">
+                    <img src="/static/Images/magnifying_glass.png"
+                    alt="search" id="magnify" alt="search" id="magnify">
+                </div>
+                <div>
+                    <a href="/cart"><img id="cart" src="/static/Images/cart.png"></a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="navBelow">
+        
+        <a href="/our_story"><h2>Our Story</h2></a>
+        <a href="/adopt"><h2>Adopt a doggo</h2></a>
+        <a href="/products"><h2>Products</h2></a>
+        <a href="/coming_soon"><h2>Coming Soon...</h2></a>
+    </div>
+    <div id="best_friend">
+        <h1 class="doggo_app">DoggoToggo Application</h1>
+        <h2>Please fill out the form below to get started on adopting your new best friend!!</h2>
+    </div
+    >
+        <form action="/adoption" method="post" class="Adoption_form" >
+        <p>Full Name:</p>
+        <input type="text" name="full_name" id="">
+        <p>Address:</p>
+        <input type="text" name="address" id="">
+        <p>City:</p>
+        <input type="text" name="city" id="">
+        <p>State:</p>
+        <input type="text" name="state" id="">
+        <p>Zip Code:</p>
+        <input type="text" name="zip_code" id="">
+        <p>Phone Number:</p>
+        <input type="text" name="phone_number" id="">
+        <p>Email:</p>
+        <input type="text" name="email" id="">
+        </br></br>
+        <input type="submit" value="Submit">
+    </form>
+
+
+</body>
+</html>

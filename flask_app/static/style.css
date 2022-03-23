@@ -1,0 +1,386 @@
+.adopt{
+  text-align: center;
+  border-radius: 2px;
+  border-color: black;
+  border-style: solid;
+}
+
+.adopt_dogs{
+  display: flex;
+  justify-content: center;
+  height: 500px;
+  padding: 10px;
+
+}
+
+.Adoption_form{
+  text-align: center;
+}
+
+.around_sad_doggo{
+  display: flex;
+}
+
+#best_friend{
+  text-align: center;
+}
+
+#black{
+  border-radius: 2px;
+  border-color: black;
+  border-style: solid;
+  margin-left: 5px;
+  border-radius: 50%;
+  
+}
+
+.beach{
+  height: 1088px;
+  width: 1890px;
+}
+
+.bodyleft{
+  display: flex;
+  padding-top: 10px;
+}
+
+#bottom{
+  border-radius: 2px;
+  border-color: black;
+  border-style: solid;
+  width: 950px;
+  height: 650px;
+  padding: 5px;
+  margin: 5px;
+}
+
+#bottom_left{
+  border-radius: 2px;
+  border-color: black;
+  border-style: solid;
+  width: 250px;
+  height: 250px;
+  padding: 5px;
+}
+
+#bottom_right{
+  border-radius: 2px;
+  border-color: black;
+  border-style: solid;
+  width: 250px;
+  height: 250px;
+  padding: 5px;
+}
+
+#cart{
+  height: 40px;
+  padding-top: 5px;
+  padding-right: 25px;
+  padding-left: 20px;
+}
+
+#empty_cart{
+  display: flex;
+  justify-content: center;
+  border-radius: 2px;
+  border-color: black;
+  border-style: solid;
+  margin-top: 20px;
+  margin-left: 500px;
+  width: 800px;
+  height: 300px;
+
+}
+
+.Check_out{
+  display: flex;
+  justify-content: space-around;
+}
+
+.dog_house{
+  display: flex;
+  justify-content: center;
+  width: auto;
+  height: 400px;
+  border-radius: 2px;
+  border-color: black;
+  border-style: solid;
+}
+
+#doggo1{
+  width: 700px;
+  height: 320px;
+  background: url("https://media.hswstatic.com/eyJidWNrZXQiOiJjb250ZW50Lmhzd3N0YXRpYy5jb20iLCJrZXkiOiJnaWZcL2RvZy1sZWFzaC5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjgyOH0sInRvRm9ybWF0IjoiYXZpZiJ9fQ==") no-repeat;
+  border-radius: 2px;
+  border-color: black;
+  border-style: solid;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+    
+#doggo1:hover{
+  background: url("https://www.rd.com/wp-content/uploads/2019/09/amazing-portrait-of-young-crossbreed-dog-german-shepherd-during-sunset-in-grass-e1576859426599-scaled.jpg?resize=700,466");
+}
+
+.doggo_app{
+  font-size: 50px;
+  text-decoration: underline;
+}
+  
+#easy{
+  font-size: 60px;
+}
+  
+.endNav{
+  display: flex;
+  justify-content: center;
+}
+  
+#hours{
+  border-radius: 2px;
+  border-color: black;
+  border-style: solid;
+  text-align: center;
+  padding-top: 60px;
+  font-size: 15px;
+  margin-right: 10px;
+  height: 440px;
+  margin-top: 5PX;
+}
+
+#left_pic{
+  padding-left: 10px;
+  width: 598px;
+}
+
+#left_side{
+  height: 200px;
+  width: 200px;
+}
+
+#left_side_adopt{
+  height: 200px;
+  width: 400px;
+}
+  
+#magnify{
+  height: 20px;
+}
+
+.middle_container{
+  border-radius: 2px;
+  border-color: black;
+  border-style: solid;
+  display: flex;
+
+}
+  
+.map{
+  height: 400px;
+  width: 475px;
+  border-radius: 2px;
+  border-color: black;
+  border-style: solid;
+  margin-right: 10px;
+}
+  
+.navbar{
+  background-color: white;
+  border-radius: 2px;
+  border-color: black;
+  border-style: solid;
+  display: flex;
+  justify-content: space-between;
+  align-items: center; 
+}
+  
+.navBelow{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: white;
+  height: 50px;
+  width: auto;
+  border-bottom: black;
+  border-radius: 2px;
+  border-style: solid;
+  margin-top: 10px;
+}
+
+
+.our_mission{
+  height: 650px;
+  width: 1105px;
+  text-align: center;
+  border: 2px solid black;
+  border-top: none;
+  border-bottom: none;
+  padding: 5px;
+}
+
+.our_story{
+  font-size: 50px;
+  text-align: center;
+  border-bottom: 3px black solid;
+  padding-bottom: 30px;
+}
+
+#paw{
+  width: 50px;
+  height: 50px;
+  padding: 5px;
+  padding-top: 25px;
+}
+
+#paw2{
+  width: 150px;
+  height: 150px;
+  padding: 5px;
+  padding-top: 25px;
+}
+
+#p_and_c{
+  border-radius: 2px;
+  border-color: black;
+  border-style: solid;
+  margin-top: 10px;
+  height: 590px;
+  width: 550px;
+  margin-right: 50px;
+}
+
+#p_and_c_box{
+  display: flex;
+  justify-content: space-around;
+  margin-top: 10px;
+}
+
+#past_doggo{
+  padding-right: 250px;
+}
+
+#response{
+  text-decoration: underline;
+}
+
+#right_pic{
+  padding-right: 10px;
+  width: 598px;
+}
+
+#right_side{
+  height: 200px;
+  width: 200px;
+}
+
+#right_side_adopt{
+    height: 200px;
+    width: 400px;
+
+}
+  
+.sad_dog{
+  display: flex;
+  justify-content: center;
+}
+
+#sad_doggo_pic{
+  border-radius: 2px;
+  border-color: black;
+  border-style: solid;
+  width: 58%;
+}
+
+#search{
+  background-color: lightgray;
+  width: 300px;
+  border:none;
+  background-color: transparent;
+  resize: none;
+  outline: none;
+  margin-bottom: 10px;
+  margin-left: 10px; 
+}
+  
+#searchbar{
+  padding-right: 5px;
+  padding-top: 10px;
+  background-color: lightgray;
+  border-radius: 20px;
+  border: black 2px solid;
+}
+  
+.store{
+  height: 915px;
+  width: 600px;
+  border-radius: 2px;
+  border-color: black;
+  border-style: solid;
+}
+
+#story{
+  height: 580px;
+  width: 606px;
+  font-size: 23px;
+  border-radius: 2px;
+  border-color: black;
+  border-style: solid;
+  padding: 5px;
+  margin-top: 20px;
+}
+
+#top{
+  border-radius: 2px;
+  border-color: black;
+  border-style: solid;
+  width: 950px;
+  height: 650px;
+  padding: 5px;
+  margin: 5px;
+}
+
+#topbody{
+  display: flex;
+  justify-content: center;
+  padding: 10px;
+}
+
+#topDog{
+  height: 100px;
+}
+
+#top_right{
+  border-radius: 2px;
+  border-color: black;
+  border-style: solid;
+  width: 250px;
+  height: 250px;
+  padding: 5px;
+}
+
+.toys{
+  height: 300px;
+  width: 300px;
+  border-radius: 2px;
+  border-color: black;
+  border-style: solid;
+}
+
+.vid{
+  border-radius: 2px;
+  border-color: black;
+  border-style: solid;
+  width: 800px;
+  text-align: center;
+  margin-left: 10px;  
+}
+
+#white{
+  border-radius: 2px;
+  border-color: black;
+  border-style: solid;
+  margin-right:5px;
+  border-radius: 50%;
+}
+
