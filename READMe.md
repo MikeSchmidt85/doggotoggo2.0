@@ -9,7 +9,13 @@
   Python <br/>
   HTML <br/>
   CSS <br/>
-  JavaSCript <br/>
+  JavaScript <br/>
   Flask<br/>
   MySQL<br/>
 </p>
+
+
+<h3>Screen Shots</h3>
+
+![Screenshot (11)](https://user-images.githubusercontent.com/89613492/167229650-54ac39a9-c6ce-4319-82b0-1f1d562024ff.png)
+![Screenshot (10)](https://user-images.githubusercontent.com/89613492/167229652-f4f34a53-2f6a-4ba0-acfb-a9da2865fe2c.png)
