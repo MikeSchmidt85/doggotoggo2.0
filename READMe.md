@@ -14,6 +14,11 @@
   MySQL<br/>
 </p>
 
+<h3>Feature</h3>
+
+<p>1. Sign up to become a (VID) very important doggo!!</p>
+<p>2. Check out our store and add items to your cart!!</p>
+<p>3. Send in your application to adopt a doggo!!</p>
 
 <h3>Screen Shots</h3>
 
