@@ -4,6 +4,8 @@
 <p align="center"> We're located in Huntington Beach California. We got your every needs for your dogs. Food? Clothes? Toys?</p>
 <p align="center">Dont have a dog, check out our adoption page where you can apply to adopt! Or sign up today to become a VID (Very Important Doggo)<p/>
 
+<hr/>
+
 <h3>Built with:</h3>
 <p>
   Python <br/>
@@ -14,11 +16,15 @@
   MySQL<br/>
 </p>
 
+<hr/>
+
 <h3>Feature</h3>
 
 <p>1. Sign up to become a (VID) very important doggo!!</p>
 <p>2. Check out our store and add items to your cart!!</p>
 <p>3. Send in your application to adopt a doggo!!</p>
+
+<hr/>
 
 <h3>Screen Shots</h3>
 
